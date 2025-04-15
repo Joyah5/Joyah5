@@ -1,7 +1,8 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋✨;+I'm+Joyah!;" />
+</h1>
 
-<!--
-**Joyah5/Joyah5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Student Developer</h3>
 
 Here are some ideas to get you started:
 
